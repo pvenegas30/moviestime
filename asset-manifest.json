@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/moviestime/static/css/main.26e79f37.css",
-    "main.js": "/moviestime/static/js/main.d0ee681f.js",
+    "main.js": "/moviestime/static/js/main.a2433d80.js",
     "index.html": "/moviestime/index.html",
     "main.26e79f37.css.map": "/moviestime/static/css/main.26e79f37.css.map",
-    "main.d0ee681f.js.map": "/moviestime/static/js/main.d0ee681f.js.map"
+    "main.a2433d80.js.map": "/moviestime/static/js/main.a2433d80.js.map"
   },
   "entrypoints": [
     "static/css/main.26e79f37.css",
-    "static/js/main.d0ee681f.js"
+    "static/js/main.a2433d80.js"
   ]
 }
